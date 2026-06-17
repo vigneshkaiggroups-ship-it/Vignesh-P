@@ -1,0 +1,6 @@
+{
+  "name": "Digital Marketing Agency",
+  "description": "A professional digital marketing agency website featuring case studies, service pricing tiers, and an interactive contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
